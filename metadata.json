@@ -1,0 +1,6 @@
+{
+  "name": "EduGestão — Sistema Integrado de Gestão Escolar",
+  "description": "Sistema Integrado de Gestão Escolar para diretores e professores: gestão de reservas, equipamentos, turmas e controle administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
